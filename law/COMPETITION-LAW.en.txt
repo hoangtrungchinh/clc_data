@@ -1,0 +1,842 @@
+COMPETITION LAW
+Chapter I
+GENERAL PROVISIONS
+Scope
+This Law sets forth anti-competitive practices, economic concentration that causes or may cause anti-competitive effects on the market of Vietnam; unfair competition practices; competition legal proceedings; sanctions against violations of competition law; state management of competition.
+Regulated entities
+Business organizations and individuals (hereinafter referred to as enterprises), including enterprises that produce and provide public-utility products and services, enterprises that operate in state-monopolized sectors/domains, public sector entities and foreign enterprises that operate in Vietnam.
+Industry associations operating in Vietnam.
+Relevant domestic and foreign agencies, organizations and individuals.
+Interpretation of terms
+For the purpose of the Law, these terms below shall be construed as follows:
+“Industry association” includes business association and professional association.
+“Anti-competitive practices” means enterprises’ practices that cause or may cause anti-competitive effects, including anti-competitive agreement, abuse of a dominant position on the market and abuse of monopoly power.
+“Anti-competitive effects” means the effect of eliminating, reducing, distorting or deterring competition on the market.
+“Anti-competitive agreement” means arrangements made by parties in any form, which causes or may cause anti-competitive effects.
+“Abuse of a dominant position, abuse of monopoly position” means behavior of enterprises with dominant position, monopoly position which causes or may cause anti-competitive effects.
+“Unfair competition practices” means competition acts performed by enterprises against the principles of good faith, honesty, business norms and standards, which cause or may cause damage to the legitimate rights and interests of other enterprises.
+“Relevant market” means the market of those products and/or services that are regarded as interchangeable by reason of their characteristics, intended use and prices in a specific geographical area with homogeneous conditions of competition, which is considerably differentiated from neighboring geographic areas.
+“Competition legal proceedings” means investigation, handling of competitions cases and handling of claims against decisions on settlement of a competition case (hereinafter referred to as settlement decisions) following the procedures prescribed herein.
+“Competition case” means case showing signs of violation of competition law, which is investigated and handled in accordance with this Law, including anti-competition, violation of regulations on economic concentration and unfair competition.
+State’s policies on competition
+This Law governs competition relations in general. Investigation and handling of competitions cases, exemption from prohibition on anti-competitive agreement and notification of economic concentration shall apply this Law.
+If there is any discrepancy between this Law and other laws in terms of anti-competitive practices, economic concentration, unfair competition practices and handling of unfair competition practices, the latter shall prevail.
+Competition rights and rules in business
+Enterprises are entitled to freedom of competition in accordance with legal provisions. The State guarantees the lawful right to competition in business.
+Competition must be implemented on the principles of honesty, fairness, non-infringement upon the interests of the State, public interests, legitimate rights and interests of enterprises and consumers.
+State’s policies on competition
+Create and maintain healthy, fair, and transparent competition environment.
+Promote competition, ensure right to freedom of competition in business accordance with legal provisions.
+Enhance accessibility to market, improve efficiency, social welfares and protect consumers’ interests.
+Enable society and consumers to oversee the implementation of competition law.
+Roles of regulatory agencies in competition
+The Government shall perform uniform state management of competition.
+The Ministry of Industry and Trade shall be the designated contact point that assists the Government in state management of competition.
+Ministries, ministerial-level agencies, within their tasks and powers, shall cooperate with the Ministry of Industry and Trade in state management of competition.
+People’s Committees of provinces, within their tasks and powers, shall perform state management of competition.
+Prohibited acts related to competition
+State agencies are prohibited from performing the following acts to prevent competition on the market:
+Forcing, requesting, recommending enterprises, organizations or individuals to or not to buy, sell specific products, provide services or from/to specific enterprises, except for products and services in state-monopolized domains or in emergency cases prescribed by law;
+Discriminating among enterprises;
+Forcing, requesting, recommending industry associations, social-occupational organizations or enterprises to associate with one another with a view to restrain competition on the market;
+Taking advantage of their positions and powers to illegally intervene the competition.
+Organizations, individuals are prohibited from providing information, mobilizing, encouraging, coercing or enabling enterprises to engage in anti-competitive practices or unfair competition.
+Chapter II
+RELEVANT MARKET AND MARKET SHARE
+Determination of relevant market
+Relevant market is defined on the basis of relevant product market and relevant geographic market.
+A relevant product market comprises all those products and/or services which are regarded as interchangeable or substitutable by reason of the products’ characteristics, their prices and their intended use.
+A relevant geographic market is a specific geographical area in which provided goods and services are interchangeable under homogeneous conditions of competition, and which is considerably differentiated from neighboring geographic areas.
+The Government shall provide guidelines for Clause 1 of this Article.
+Determination of market share and combined market share
+Based on characteristics and nature of the relevant market, the market share of enterprises on the relevant market shall be determined using one of the following methods:
+The percentage of sales revenue of an enterprise out of the total sales revenue of all enterprises on the relevant market on a monthly, quarterly or yearly basis;
+The percentage of purchase revenue of an enterprise out of the total purchase revenue of all enterprises on the relevant market on a monthly, quarterly or yearly basis;
+The percentage of volume of product/service sold by an enterprise out of the total volume of products/services sold by all enterprises on the relevant market on a monthly, quarterly or yearly basis;
+The percentage of volume of product/service purchased by an enterprise out of the total volume of product /service purchased by all enterprises on the relevant market on a monthly, quarterly or yearly basis.
+Combined market share is total market shares on relevant market of enterprises engaging anti-competitive practices or economic concentration.
+The revenue used to determine market share prescribed in Clause 1 hereof shall be defined by Vietnam’s accounting standards.
+In case where an enterprise operates for less than one financial year, the revenue, sales, volume of goods and services sold/purchased used to determine the market share prescribed in Clause 1 hereof shall be calculated from the date of commencing its operations till the date of determining its market share.
+The Government shall provide guidelines for this Article.
+Chapter III
+ANTI-COMPETITIVE AGREEMENTS
+Anti-competitive agreements
+Agreements on directly or indirectly fixing goods or service prices.
+Agreements on distributing customers, consumption market, sources of supply of goods, provision of services.
+Agreements on limiting or controlling the quantity, volume of produced, purchased, sold goods or provided services.
+Agreements for one of more parties to the agreements to win tenders when participating in tenders for supply of goods or services.
+Agreements on preventing, restraining, disallowing other enterprises from entering the market or develop business.
+Agreements on abolishing from the market enterprises other than the parties to the agreements.
+Agreements on restricting technical or technological development and investments.
+Agreement on imposing on other enterprises conditions for signing of goods or services purchase or sale contracts or forcing other enterprises to accept obligations which have no direct connection with the subject of such contracts.
+Agreements on not trading with enterprises other than the parties to the agreements.
+Agreements on restricting consumption market, sources of supply of goods and services from enterprises other than the parties to the agreements.
+Other agreements that cause or may cause anti-competitive effects.
+Prohibited anti-competitive agreements
+Enterprises on the same relevant market are prohibited from entering anti-competitive agreements prescribed in Clauses 1, 2, and 3 Article 11 of this Law.
+Enterprises are prohibited from entering anti-competitive agreements prescribed in Clauses 4, 5 and 6 Article 11 of this Law.
+Enterprises on the same relevant market are prohibited from entering anti-competitive agreements prescribed in Clauses 7, 8, 9, 10 and 11 Article 11 of this Law if such agreements cause or may cause substantial anti-competitive effects on the market.
+Enterprises doing business in different steps of the same production, distribution, supply chain for specific kinds of goods, services are prohibited from entering anti-competitive agreements prescribed in Clauses 1, 2, 3, 7, 8, 9, 10 and 11 Article 11 of this Law if such agreements cause or may cause substantial anti-competitive effects on the market.
+Assessment of substantial anti-competitive effects caused or probably caused by anti-competitive agreements
+The National Competition Commission shall assess substantial anti-competitive effects caused or probably caused by an anti-competitive agreement based on the following factors:
+Market share of the enterprises engaging in the agreement;
+Barriers to market entry and expansion;
+Limitations to technological research, development, renovation or technological capacity limitation;
+Reduction in accessibility or ownership to essential infrastructure;
+Increase of customers’ costs and time for buying goods and services of the enterprises engaging in the agreement or customers’ switching to other related products;
+Obstruction of competition in the market through control of other specific factors in the sectors and domains related to the parties engaging in the agreement.
+The Government shall provide guidelines for Clause 1 of this Article.
+Exemption from prohibition on anti-competitive agreements
+Anti-competitive agreements prescribed in Clauses 1, 2, 3, 7, 8, 9, 10 and 11 Article 11 which are prohibited in Article 12 of this Law shall be granted exemption for a definite term if they meet one of the following conditions and benefit consumers:
+Promoting technical and technological advances, raising the quality of goods, services;
+Increasing the competitiveness of Vietnamese enterprises on international market;
+Promoting the single application of quality standards and technical norms of product categories;
+Agreeing on conditions for contract performance, goods delivery and payment, which are not related to prices and price elements.
+In cases where labor agreements, cooperation agreements in specific sectors or domains have been prescribed by other relevant laws, they shall be exempted in accordance with the provisions of this Law.
+Application for exemption from prohibition on anti-competitive agreements
+Enterprises intending to enter into anti-competitive agreements shall submit an application for exemption for prohibited anti-competitive agreements (hereinafter referred to as exemption application) to the National Competition Commission.
+Required documents in exemption application:
+An application form issued by the National Competition Commission;
+Draft contents of the agreement reached by the parties;
+A valid copy of the enterprise registration certificate or equivalent document of each enterprise participating in the anti-competitive agreement and a copy of the association’s charter, for cases where an industry association participates in the agreement;
+Financial statements of the two consecutive years preceding the year of submission of the exemption application or, in case of newly established enterprises, financial statements from the time of establishment to the time of submission of the exemption application of each enterprise participating in an anti-competitive agreement, which are certified by an auditing firm in accordance with the provisions of law;
+A report explaining in detail the eligibility for exemption as specified in Clause 1 Article 14 of this Law, enclosed with evidence;
+Letter(s) of authorization given to representatives by the parties to the anti-competitive agreement.
+The party submitting the application shall be responsible for the truthfulness of the application. Vietnamese translations are required if documents in the application are made in foreign language.
+Acceptance of exemption application
+The National Competition Commission shall be responsible for accepting exemption applications.
+Within 7 working days from receipt of an exemption application, the National Competitive Commission shall notify the applicant in writing that whether the application is complete and valid.
+If the application is incomplete or invalid, the National Competition Commission shall notify the applicant in writing of deficiencies need amendments and allow them 30 days to make amendments from the date of notice.
+Upon expiry of 30 days, if no amendment is made or the application is not amended completely, the National Competition Commission shall return the application.
+After receiving a notice certifying that the application is complete and valid, the applicant shall pay an amount of appraisal fee as prescribed in law on fees and charges.
+The application is accepted when the applicant fully pays the appraisal fee.
+Request for further documentation in exemption application
+After accepting the exemption application, the National Competition Commission may request the applicant to provide further documentation relating to the intention to execute the anti-competitive agreement.
+If the applicant fails to provide additional documentation or provide insufficient documentation, the National Competition Commission shall consider the application according to provided documentation.
+Consultation while processing exemption application
+The National Competition Commission may consult relevant entities about the contents of the prohibited anti-competitive agreement in question.
+Within 15 days from the date on which the request for consultation is received, the relevant entity shall respond in writing and provide documentation supporting their consultation.
+Withdrawal of exemption application
+An applicant is entitled to withdraw its exemption application. A request for withdrawal of such application shall be made in writing and sent to the National Competition Commission.
+The appraisal fee shall not be refunded to the applicant who withdrew its exemption application.
+Power and time limit to grant exemption
+The National Competition Commission has power to grant or not grant exemption as prescribed in this Law; if exemption is not granted, it shall provide explanation in writing.
+Time limit for granting exemption is 60 days from the date on which the application is accepted.
+In a complicated case, the time limit prescribed in Clause 2 of this Article may be extended by the National Competition Commission but not exceeding 30 days. The extension must be notified to the applicant at least 3 working days before the deadline for consider granting the exemption.
+If the National Competition Commission commits violations against regulations on procedures and time limit for granting exemption, the enterprise is entitled to file a claim or lawsuit as per the law.
+Exemption decision
+An exemption decision must at least contain:
+Names and address of parties engaging in the agreement;
+Contents of the agreement to be performed;
+Conditions and obligations of parties engaging in the agreement;
+Exemption period.
+An exemption decision must be sent to parties engaging in the agreement within 7 working days from its date of issuance.
+The exemption period prescribed in Point d Clause 1 hereof is no longer than 5 years from the date of issuance.
+Within 90 days before expiry of exemption period, at the request of parties engaging in the agreement, the National Competition Commission shall consider granting further exemption. If a further exemption is granted, the extra period is no longer than 5 years from the date on which the decision of further exemption is issued.
+Execution of anti-competitive agreement eligible for exemption
+Parties engaging in an anti-competitive agreement that are eligible for exemption prescribed in Clause 1 Article 14 hereof may only enter into the agreement after they obtain an exemption decision as prescribed in Article 21 hereof.
+Parties engaging in the agreement eligible for exemption must adhere to the exemption decision as prescribed in Article 21 hereof.
+Annulment of exemption decision
+The National Competition Commission shall decide to annul exemption decisions in the following cases:
+Eligibility for exemption is not longer available;
+Fraud is found in the application for exemption;
+The enterprise gaining exemption fails to fulfill the conditions and obligations specified in the exemption decision;
+The exemption decision is made based on inaccurate information on eligibility for exemption.
+If the enterprise gaining exemption is no longer eligible for exemption, it shall notify the National Competition Commission, the National Competition Commission shall then issue a decision on annulment of exemption decision.
+An annulment of exemption decision must be sent to parties engaging in the agreement within 7 working days from its date of issuance.
+Chapter IV
+ABUSE OF A DOMINANT POSITION, ABUSE OF A MONOPOLY POSITION
+Enterprises, groups of enterprises holding a dominant position on the market
+An enterprise shall be considered to hold a dominant position on the market if it has substantial market power as specified in Article 26 of this Law or has market shares of 30% or more on the relevant market.
+A group of enterprises shall be considered to hold a dominant position on the market if they jointly cause anti-competitive effects and have substantial market power as specified in Article 26 of this Law or their total market shares fall into one of the following cases:
+Two enterprises having the total market share of 50% or more on the relevant market;
+Three enterprises having the total market share of 65% or more on the relevant market;
+Four enterprises having the total market share of 75% or more on the relevant market;
+At least five enterprises having the total market share of 85% or more on the relevant market.
+A group of enterprises holding a dominant market position prescribed in Clause 2 of this Article excludes an enterprise holding market share of less than 10% of the relevant market.
+Enterprises holding a monopoly position
+An enterprise shall be considered to hold the monopoly position if there is no enterprise competing on the goods or services dealt in by such enterprise on the relevant market.
+Determination of substantial market power
+Substantial market power of an enterprise or group of enterprises is determined based on some of the following factors:
+Market shares of enterprises on the relevant market;
+Financial strength and size of the enterprise;
+Barriers to market entry and expansion to other enterprises;
+Ability to obtain, assess, control the goods distribution/consumption market or sources of supply;
+Advantages in technology and technical infrastructure;
+Right to own, obtain and assess infrastructure;
+Right to own or use subject matters of intellectual property;
+Ability to transfer to other sources of supply or demand associated with other goods and related services;
+Particular factors in the sector that the enterprise runs the business.
+The Government shall provide guidelines for Clause 1 of this Article.
+Prohibited abuse of a dominant position or abuse of a monopoly position
+An enterprise or group of enterprises holding a dominant position on the market is prohibited from:
+Selling goods or providing services below costs that drives or probably drives competitors out of the market;
+Imposing irrational buying or selling prices of goods or services or establishing minimum resale price maintenance (RPM), which causes or possibly causes damage to customers;
+Restricting production and distribution of goods, services, limiting markets, preventing technical and technological development, which causes or possibly causes damage to customers;
+Applying dissimilar commercial conditions in similar transactions, which leads to or possibly leads to prevention of other enterprises from market entry or expansion or exclusion of other enterprises;
+Imposing conditions on other enterprises to conclude goods or services purchase or sale contracts or requesting customers to accept obligations which have no direct connection with subjects of such contracts, which leads to or possibly leads to prevention of other enterprises from market entry/expansion or exclusion of other enterprises;
+Preventing other enterprises from market entry or expansion;
+Other prohibited abuse of a dominant position prescribed in other laws.
+An enterprise holding a monopoly position is prohibited from:
+Performing acts prescribed in Points b, c, d, dd and e Clause 1 hereof;
+Imposing unfavorable conditions on customers;
+Taking advantage of the monopoly position to unilaterally modify or cancel the contract already signed without justifiable reasons;
+Other prohibited abuse of a monopoly position prescribed in other laws.
+Control of enterprises operating in state-monopolized domains
+The State controls enterprises operating in state-monopolized domains with the following measures:
+Deciding buying prices, selling prices of goods, services in state-monopolized domains;
+Deciding the quantity, volume and market scope of goods, services in state-monopolized domains;
+Directing, organizing the markets related to goods, services in state-monopolized domains prescribed by this Law and other relevant laws.
+When undertaking other business activities outside state-monopolized domains, enterprises shall not be subject to the provisions of Clause 1 of this Article but be still subject to the application of other provisions of this Law.
+Chapter V
+ECONOMIC CONCENTRATION
+Categories of economic concentration
+Economic concentration includes the following categories:
+Merger of enterprises;
+Consolidation of enterprises;
+Acquisition of enterprises;
+Joint venture between/among enterprises;
+Other categories of economic concentration as per the law.
+Merger of enterprises means an act whereby one or several enterprises transfer all of its/their property, rights, obligations and legitimate interests to another enterprise, and at the same time terminate the existence of the merged enterprises.
+Consolidation of enterprises means an act whereby two or more enterprises transfer all of their property, rights, obligations and legitimate interests to form a new enterprise and, at the same time, terminate the existence of the consolidating enterprises.
+Acquisition of enterprises means an act whereby an enterprise acquires the whole or part of property or shares of another enterprise sufficient to control or dominate all or one of the trades of the acquired enterprise.
+Joint venture between enterprises means an act whereby two or more enterprises jointly contribute part of their property, rights, obligations and legitimate interests to the establishment of a new enterprise.
+Prohibited economic concentration
+Economic concentration shall be prohibited if it causes or probably cause substantial anti-competitive effects on the Vietnamese market.
+Assessment of substantial anti-competitive effects caused or probably caused by economic concentration
+The National Competition Commission shall assess substantial anti-competitive effects cause or probably caused by economic concentration based on the following factors:
+Combined market share of enterprises engaging in the economic concentration on the relevant market;
+The degree of concentration on the relevant market before and after the economic concentration;
+The relationship of the parties engaging in the economic concentration in the production, distribution or supply chain for a certain kind of goods/service or the business lines of the parties engaging in the economic concentration which are inputs of or complementary to one another;
+Competitive advantage brought about by economic concentration in the relevant market;
+The ability of enterprises after the economic concentration for increasing significantly their prices or return on sales;
+The ability of enterprises after the economic concentration for removing or preventing other enterprises from market entry or expansion;
+Particular factors in the sectors and domains where enterprises are engaging in economic concentration.
+The Government shall provide guidelines for Clause 1 of this Article.
+Assessment of positive effects of economic concentration
+The National Competition Commission shall assess positive effects of economic concentration based on one of the following factors or a combination of factors:
+Positive effects on the development of the sector, domain, science and technology in accordance with the state’s strategies and planning;
+Positive effects on the development of small and medium-sized enterprises;
+Increase of the competitiveness of Vietnamese enterprises on the international market.
+The Government shall provide guidelines for Clause 1 of this Article.
+Notification of economic concentration
+The enterprises engaging in economic concentration must file a dossier of economic concentration notification (hereinafter referred to as notification dossier) to the National Competition Commission as prescribed in Article 34 of this Law before initiating economic concentration if they reach the notification threshold.
+The notification threshold shall be determined based on one of the following criteria:
+Total assets of the enterprises engaging in the economic concentration on the Vietnamese market;
+Total turnover of enterprises engaging in the economic concentration on the Vietnamese market;
+The transaction value of the economic concentration;
+Combined market share of enterprises engaging in the economic concentration on the relevant market.
+The Government shall provide guidelines for this Article in conformity with socio-economic conditions in each period.
+Notification dossier
+A notification dossier shall consist of:
+A notification of economic concentration issued by the National Competition Commission;
+Agreed contents of the economic concentration or draft contracts, memorandum of understanding regarding economic concentration between/among enterprises;
+Valid copies of the business registration certificates of similar documents of all enterprises engaging in economic concentration;
+Financial statements of all enterprises engaging in economic concentration in two consecutive years before the notification year or, in case of newly-established enterprises, from the establishment time to the notification time as per the law;
+The list of parent companies, subsidiaries, associate companies, branches, representative offices and other affiliated entities of every enterprise engaging in economic concentration (if any);
+The list of goods, services dealt in by each enterprise engaging in economic concentration;
+Information about market shares in the sector where economic concentration will take place held by every enterprise engaging in economic concentration in 2 consecutive years before the notification year;
+Proposed remedies for possible anti-competitive effects of the economic concentration;
+Report on assessment of positive effects of economic concentration and measures to enhance the positive effects of economic concentration.
+Enterprises submitting notification dossiers shall be accountable for the truthfulness of their dossiers. Vietnamese translations are required if documents in the dossier are made in foreign language.
+Receipt of notification dossiers
+The National Competition Commission shall receive notification dossiers.
+Within 7 working days from receipt of an exemption application, the National Competitive Commission shall notify the applicant in writing that whether the application is complete and valid.
+If the application is incomplete or invalid, the National Competition Commission shall notify the applicant in writing of deficiencies need amendments and allow them 30 days to make amendments from the date of notice.
+Upon expiry of 30 days, if no amendment is made or the application is not amended completely, the National Competition Commission shall return the notification dossier.
+Preliminary assessment of economic concentration
+The National Competition Commission shall be responsible for preliminary assessment of economic concentration. Matters to be preliminarily assessed in economic concentration:
+Combined market share of enterprises engaging in the economic concentration on the relevant market;
+The degree of concentration on the relevant market before and after the economic concentration;
+The relationship of the parties engaging in the economic concentration in the production, distribution or supply chain for a certain kind of goods/service or the business lines of the parties engaging in the economic concentration which are inputs of or complementary to one another;
+Within 30 days from receipt of a complete and valid notification dossier, the National Competition Commission shall notify the preliminary assessment result that:
+economic concentration is approved; or
+economic concentration is subject to further official assessment.
+Upon expiry of 30 days prescribed in Clause 2 of this Article, if the National Competition Commission fails to notify the preliminary assessment result, the economic concentration may be effected and the National Competition Commission may not give a notification as provided in Point b Clause 2 of this Article.
+The Government shall provide guidelines for Clause 1 of this Article and criteria for determining economic concentration subject to official assessment as prescribed in Point b Clause 2 of this Article.
+Official assessment of economic concentration
+The National Competition Commission shall carry out the official assessment of economic concentration within 90 days from the date on which a notification of preliminary assessment result prescribed in Point b Clause 2 Article 36 of this Law.
+In complicated cases, the time limit for official assessment of economic concentration may be extended, but not exceeding 60 days and the National Competition Commission shall inform enterprises submitting the notification dossier.
+Matters to be officially assessed in economic concentration:
+Assessment of substantial anti-competitive effects caused or probably caused by economic concentration as prescribed in Article 31 of this Law and remedial measures for anti-competitive effects;
+Assessment of positive effects of economic concentration as prescribed in Article 32 of this Law and measures to enhance the positive effects of economic concentration;
+Consolidated assessment of anti-competitive effects and positive anti-competitive effects of economic concentration forming the basis for consideration of economic concentration.
+Additional documentation on economic concentration
+During the official assessment of economic concentration, the National Competition Commission may require the enterprise submitting notification dossier to provide additional documentation but not exceeding 2 times.
+The enterprise submitting notification dossier shall provide additional documentation on economic concentration and be accountable for the completeness and accuracy of the documentation provided at the request of the National Competition Commission.
+If the enterprise fails to provide additional documentation or provide insufficient documentation, the National Competition Commission shall consider the application according to provided documentation.
+The duration for providing additional documentation prescribed in Clause 2 hereof shall not be included in the time limit for assessment of economic concentration prescribed in Clause 1 Article 37 of this Law.
+Consultation during the assessment of economic concentration
+During the assessment of economic concentration, the National Competition Commission may consult the bodies which manage the domains/sectors where enterprises engaging in the economic concentration are operating.
+Within 15 days from the date on which the request for consultation made by the National Competition Commission is received, the relevant entity shall respond in writing and provide documentation supporting their consultation.
+During the assessment of economic concentration, the National Competition Commission may consult other related entities.
+Responsibility for providing documentation by related entities during the assessment of economic concentration
+Related entities are responsible for fully, accurately and promptly providing the documentation requested by the National Competition Commission during the assessment of economic concentration, except the cases where the law provides otherwise.
+The National Competition Commission shall ensure confidentiality of documentation provided as per the law.
+Decision on economic concentration
+Upon completion of the official assessment of economic concentration, the National Competition Commission shall issue a decision determining that:
+the economic concentration is approved;
+the economic concentration is subject to conditions prescribed in Article 42 hereof; or
+the economic concentration is prohibited.
+The decision on economic concentration prescribed in Clause 1 hereof shall be sent to enterprises engaging in economic concentration within 5 working days from the date of issue.
+If the National Competition Commission issues a decision beyond the given time limit that cause damage to enterprises, it shall compensate for such damage as per the law.
+Conditional economic concentration
+Conditional economic concentration is economic concentration which is approved but subject to one or certain conditions below:
+Total or partial division, resale of partial capital holding of enterprises engaging in economic concentration;
+Control of the content related to the purchase and sale prices of goods, services or other trading conditions in business contracts of enterprises formed after the economic concentration;
+Remedies to rectify the probability of causing adverse effects on competition on the market;
+Other measures to enhance the positive effects of economic concentration.
+Implementation of economic concentration
+Enterprises engaging in the economic concentration specified in Point a Clause 2, Clause 3 Article 36 and Point a, Point b Clause 1 Article 41 of this Law may carry out economic concentration procedures according to the legal provisions on enterprises and other relevant laws.
+Enterprises engaging in the economic concentration specified in Point b Clause 1 Article 42 of this Law must fully meet the conditions for economic concentration as specified in the decision of the National Competition Commission before and after the economic concentration implementation.
+Violations against regulations on economic concentration
+An enterprise fails to notify economic concentration under the provisions of this Law.
+An enterprise implements economic concentration without receiving a notification of preliminary assessment result from the National Competition Commission prescribed in Clause 2 Article 36 of this Law, except for the case prescribed in Clause 3 Article 36 hereof.
+An enterprise implements economic concentration before the National Competition Commission issues a decision on economic concentration prescribed in Article 41 of this Law although it is subject to official assessment of economic concentration.
+An enterprise fails to meet or fully meet conditions specified in the decision on economic concentration prescribed in Point b Clause 1 Article 41 of this Law.
+An enterprise implements economic concentration which is prohibited under Point c Clause 1 Article 41 of this Law.
+An enterprise implements economic concentration which is prohibited under Article 30 of this Law.
+Chapter VI
+PROHIBITED UNFAIR COMPETITION PRACTICES
+Prohibited unfair competition practices
+Trade secret infringement in the following forms:
+Assessing and acquiring trade secrets by going against security measures of the owner of such trade secrets;
+Disclosing or using trade secrets without consent of the owner.
+Forcing customers or business partners of other enterprises through threatening or coercion so that they do not enter in transaction or stop transaction with such enterprises.
+Discrediting competitors through directly or indirectly providing untruthful information about such competitors which negatively impacts their goodwill, financial status or business operation.
+Disrupting competitors’ business through directly or indirectly interrupting or disrupting their legitimate business operation.
+Illegally luring customers through:
+Providing false or misleading information to customers about the enterprise or products, services, sale promotion programs, transaction conditions related to the products or services provided by the enterprise to attract customers of competitors;
+Comparing products, services of the enterprise with those of the same kinds of competitors without evidence to prove the comparison.
+Sale of goods and services below cost that drives or probably drives competitors out of the market.
+Other prohibited unfair competition practices prescribed in other laws.
+Chapter VII
+NATIONAL COMPETITION COMMISSION
+National Competition Commission
+The National Competition Commission is a body affiliated to the Ministry of Industry and Trade, composed of President, Deputy Presidents, and members.
+The Competition Investigation Agency and other units form an assisting apparatus of the National Competition Commission.
+The National Competition Commission has the following duties and powers:
+Give advice to the Minister of Industry and Trade for performing state management of competition;
+Initiate competition legal proceedings; control economic concentration; consider granting exemption decision; handle complaints against settlement decisions and other duties as prescribed in this Law and other law provisions.
+The Government shall provide guidelines for duties, powers and organizational structure of the National Competition Commission.
+President of National Competition Commission
+The President of the National Competition Commission is the head and take legal liability for the operation of the National Competition Commission.
+Members of National Competition Commission
+Members of the National Competition Commission act as members of anti-competitive settlement council or anti-competitive complaint handling council in accordance with the competition legal proceedings prescribed in this Law.
+The maximum number of members of the National Competition Commission is 15, including: President and other members. Members of the National Competition Commission are officials of the Ministry of Industry and Trade, relevant ministries, experts and scientists.
+Members of the National Competition Commission shall be appointed and dismissed by the Prime Minister at the request of the Minister of Industry and Trade.
+Term of office of members of the National Competition Commission is 5 years and they may be reappointed.
+Standards for members of National Competition Commission
+Being Vietnamese citizens, having good moral qualities, integrity and honesty.
+Obtaining at least a bachelor’s degree or higher in law, economics or finance.
+Having at least 9 years of work experience in one of the domains defined in Clause 2 of this Article.
+Competition Investigation Agency
+The Competition Investigation Agency is an authority under the National Competition Commission and in charge of investigating violations against this Law.
+The Competition Investigation Agency shall have the duties and powers to:
+Gather and receive information for detecting signs of violations against this Law;
+Organize the investigation of competition cases;
+Propose the application, change or cancellation of measures to prevent and guarantee imposition of sanctions against administrative violations in investigation and settlement of competition cases;
+Carry out investigation measures in the course of investigating competition cases as per the law;
+Other duties as assigned by the Chairperson of the National Competition Commission.
+Head of Competition Investigation Agency
+The Head of the Competition Investigation Agency shall be appointed or dismissed by the President of the National Competition Commission.
+The Head of the Competition Investigation Agency shall be responsible for organizing the operation of the Competition Investigation Agency in order to implement the provisions of Article 50 of this Law.
+Investigators
+Investigators shall be appointed by the President of the National Competition Commission.
+Investigators shall investigate competition cases as assigned by the Head of the Competition Investigation Agency.
+Standards for investigators
+Being Vietnamese citizens, having good moral qualities, integrity and honesty.
+Being officials of the National Competition Commission.
+Obtaining at least a bachelor’s degree or higher in law, economics, finance or information technology.
+Having at least 5 years of work experience in one of the domains defined in Clause 3 of this Article.
+Having been trained in investigation procedures.
+Chapter VIII
+COMPETITION LEGAL PROCEEDINGS
+Section 1. GENERAL PROVISIONS
+Principles of competition legal proceedings
+All competition legal proceedings of competition presiding agencies, competition presiding officers, participants in competition legal proceedings and concerned entities must comply with the provisions of this Law.
+In the process of carrying out competition legal proceedings, the competition presiding agencies, competition presiding officers and participants in competition legal proceedings must, within the scope of their respective tasks and powers, keep secrets of the competition case and trade secrets of enterprises as per the law.
+Legitimate rights and interests of enterprises and relevant entities shall be respected during the competition legal proceedings.
+Language and script used in competition legal proceedings
+The language and script used in competition legal proceedings is Vietnamese. Participants to competition legal proceedings shall be entitled to use their native language and script; in this case interpretation is required.
+Evidence
+Evidences are facts used as grounds for determining whether or not violations against competition law exist, violating enterprises and other details which are meaningful in the settlement of competition cases.
+Evidences are collected from the following sources:
+Readable, audible, visible materials, electronic data;
+Exhibits;
+Testimonies, explanations of witnesses;
+Testimonies, explanations of complainants, investigated parties, related entities;
+Expertise conclusions;
+Records made during the investigation, settlement of competition cases;
+Other documents, objects or sources prescribed by law.
+Determination of evidence:
+Readable documents shall be regarded as evidence if they are originals or notarized/authenticated copies provided or certified by involved or competent entities.
+Audible and visible materials shall be regarded as evidence if they are presented together with the written explanation by the persons who have such materials about the origin of the materials in case they make records on their own, or the written explanation about the origin of the materials by the persons who have provided such materials to the persons who submit them, or description of the circumstances related to such recording or filming;
+Electronic data messages in the form of exchange of electronic data, electronic vouchers, electronic mails, telegrams, faxes and other similar forms in accordance with the provisions of law on e-transactions;
+Exhibits regarded as evidence that must be original objects related to the case;
+Statements, testimonies of witnesses; statements, testimonies and explanations of the complainant, the person against whom the complaint is made (hereinafter referred to as respondent), the investigated party or relevant entities shall be regarded as evidence if they are recorded in writing, audio tapes, audio disks, video clips or by other audio and visual equipment as prescribed in Points a and b of this Clause or made verbally at the hearing;
+Expertise conclusions shall be regarded as evidence if the expertise is carried out in accordance with the procedures prescribed by law.
+The Government shall provide guidelines for this Article.
+Responsibility for collaborating with and supporting the National Competition Commission
+Competent bodies/persons, within the scope of their respective functions, duties and powers, shall be responsible for collaborating with and supporting the investigation and settlement of competition cases at the request of the National Competition Commission, the Competition Investigation Agency and the Anti-Competitive Settlement Council.
+Enterprises, entities shall have to fully, accurately and promptly provide the information and documents they are managing or owning at the request of the National Competition Commission, the Competition Investigation Agency and Anti-Competitive Settlement Council.
+Section 2. COMPETITION PRESIDING AGENCIES, COMPETITION PRESIDING OFFICERS
+Competition presiding agencies, competition presiding officers
+Competition presiding agencies include:
+National Competition Commission;
+Anti-competitive settlement council;
+Anti-competitive complaint handling council;
+Competition Investigation Agency;
+Competition presiding officers include:
+President of the National Competition Commission;
+President of the anti-competitive settlement council;
+Members of the anti-competitive settlement council;
+Members of anti-competitive complaint handling council;
+Head of Competition Investigation Agency;
+Investigators;
+Hearing clerks.
+Tasks and powers of the President of the National Competition Commission when conducting competition legal proceedings
+Decide the establishment of the anti-competitive settlement council to settle anti-competitive practices and appoint a hearing clerk among officials of the National Competition Commission.
+Decide the replacement of members of the anti-competitive settlement council, hearing clerks.
+Set up an anti-competitive complaint handling council and act as the council chairperson.
+Handle complaints against decisions on settlement of violations against regulations on economic concentration or unfair competition.
+Require competent authorities to apply, change or cancel measures to prevent and guarantee imposition of sanctions against administrative violations in the investigation and handling of competition cases as prescribed in law on sanctions against administrative violations.
+Decide the settlement of violations against economic concentration regulations.
+Decide the settlement of unfair competition cases.
+Other duties and powers prescribed by this Law.
+Anti-competitive settlement council
+The anti-competitive settlement council shall be set up by of the President of the National Competition Commission to deal with specific anti-competitive cases. It shall automatically terminate operation and dissolve upon completion of its tasks. Anti-competitive settlement council operates independently and in line with the law.
+The number of members of an anti-competitive settlement council shall be 3 or 5. These members shall be selected by the President of the National Competition Commission among the members of the National Competition Commission, of whom one shall be assigned to be the President of the anti-competitive settlement council.
+When handling anti-competitive cases, anti-competitive settlement council shall operate on the principle of collectivity and under the majority rule.
+Duties and powers of anti-competitive settlement council and its chairperson and members
+An anti-competitive settlement council has duties and powers to:
+Open a hearing;
+Summon participants to the hearing;
+Summon witnesses at the request of involved parties;
+Solicit expert opinion; replace expert witnesses or interpreters;
+Require Competition Investigation Agency to conduct further investigation;
+Suspend the settlement of anti-competitive cases;
+Handle anti-competitive cases;
+Request the President of National Competition Commission to perform duties and powers as prescribed in Clause 2 and Clause 5 Article 59 of this Law;
+Other duties and powers prescribed by this Law.
+The chairperson of anti-competitive settlement council has duties and powers to:
+Handle anti-competitive cases;
+Summon and preside over meetings of the anti-competitive settlement council;
+Sign documents of the anti-competitive settlement council;
+Other duties and powers prescribed by this Law.
+Members of anti-competitive settlement council have duties and powers to:
+Join all meetings of anti-competitive settlement council;
+Discuss and vote on issues under duties and powers of anti-competitive settlement council.
+Duties and powers of the Head of Competition Investigation Agency when conducting competition legal proceedings
+The Head of Competition Investigation Agency shall have the duties and powers to:
+Decide the investigation of competition cases upon the approval of the President of the National Competition Commission;
+Decide the assignment of investigators for competition cases;
+Request entities to provide documents, information, objects and explanation related to the cases at the request of investigators;
+Decide the replacement of investigators of competition cases;
+Solicit expert opinion; replace expert witnesses or interpreters in the course of investigation;
+Summon witnesses at the request of involved parties;
+Decide the extension or suspension of investigation of competition cases upon the approval of the President of the National Competition Commission;
+Propose the President of National Competition Commission to request competent authorities to apply, change or cancel measures to prevent and guarantee imposition of sanctions against administrative violations in the course of investigation;
+Conclude the investigation of competitions cases;
+Join hearings;
+Other duties and powers prescribed by this Law.
+Upon the completion of the investigation process, the Head of the Competition Investigation Agency shall sign the final investigation report, submit the investigation report and the entire competition case dossier to the President of the National Competition Commission.
+Duties and powers of investigators when conducting competition legal proceedings
+Investigate competition cases as assigned by the Head of the Competition Investigation Agency.
+Produce an investigation report upon completion of the investigation.
+Preserve the materials provided.
+Be held accountable to the Head of the Competition Investigation Agency and before the law for the performance of their duties and powers.
+Join hearings.
+Carry out investigation measures in the course of investigating competition cases as per the law.
+Propose the Head of Competition Investigation Agency to extend, suspend and conclude the investigation of competitions cases, solicit expert opinion, or replace expert witnesses or interpreters during the investigation.
+Report to Head of the Competition Investigation Agency for proposal to the President of the National Competition Commission who shall then request competent authority to apply measures to prevent and guarantee imposition of sanctions against administrative violations during investigation.
+Other duties and powers prescribed by this Law.
+Duties and powers of hearing clerks
+Prepare necessary professional operations before the opening of the hearing.
+Read the rules of the hearing.
+Report to the anti-competitive settlement council on the presence or absence of persons summoned to the hearing.
+Take minutes of the hearing.
+Perform other tasks assigned by the chairperson of the anti-competitive settlement council.
+Replacement of competition presiding officers
+Members of the anti-competitive settlement council, investigators, hearing clerks shall be replaced if they fall into one of the following cases:
+Being relatives of the investigated party or the complainant;
+Being person with relevant rights and obligations to the competitions cases;
+There are obvious grounds to believe that they are biased when performing their duties.
+The President of National Competition Commission shall replace members of the anti-competitive settlement council or hearing clerks at his/her discretion or at the request of anti-competitive settlement council.
+At the hearing, in case of replacement of member(s) of the anti-competitive settlement council or the hearing clerk, the anti-competitive settlement council shall issue a decision to postpone the hearing and request the President of National Competition Commission to replace the members of the anti-competitive settlement council or the hearing clerk. The hearing shall not be suspended more than 15 days from the date of suspension.
+Section 3. PARTICIPANTS IN COMPETITION LEGAL PROCEEDINGS
+Participants in competition legal proceedings
+The complainant.
+The respondent.
+The investigated party.
+Person with relevant rights and obligations.
+Persons protecting legitimate rights and interests of the complainant, respondent, investigated party, persons with related interests and obligations.
+Witnesses.
+Expert witnesses.
+Interpreters.
+Rights and obligations of complainants, respondents and investigated parties
+Complainant is an organization or individual who files a complaint prescribed in Article 77 of this Law to National Competition Commission for investigation as prescribed in Article 78 of this Law. A complainant has the following rights:
+The rights prescribed in Clause 3 of this Article;
+Propose the President of the National Competition Commission to request competent authority to apply measures to prevent and guarantee imposition of sanctions against administrative violations during investigation.
+Respondent is an organization or individual against whom the complaint about competition violation is made. A respondent has rights to:
+Be informed of information about the complaint;
+Explain matters of complaint.
+Investigated party is an organization or individual against whom the National Competition Commission carries out an investigation in the cases prescribed in Article 80 of this Law. An investigated party has rights to:
+Participate in stages of the competition procedure;
+Provide information, documents and objects to protect their legitimate rights and interests;
+Be informed of information, documents and objects presented by the complainant or the Competition Investigation Agency;
+Study documents in the competition case dossier and to record, copy necessary documents included in the competition case dossier in order to protect their legitimate rights and interests; except for documents and evidence which cannot be publicized in accordance with law;
+Participate and present opinions at the hearing;
+Request the presence of witnesses;
+Request solicitation of expert opinion;
+Request replacement of competition presiding officers, participants in competition legal proceedings;
+Authorize protectors of their rights and legitimate interests to participate in competition legal proceedings;
+Request the Completion Investigation Agency, anti-competitive settlement council to accept the participation of persons with related interests and obligations in competition legal proceedings;
+Other rights as per the law.
+Investigated parties and complainants have obligations to:
+a. Provide sufficient and accurate information, documents, objects related to their proposals or requests in a timely manner;
+b. Be present in response to the summonses of the Competition Investigation Agency and the anti-competitive settlement council.
+c. Not to disclose investigation secrets which they know in the process of participating in competition procedures; not to use the recorded or copied documents in the competition case dossier for the purpose of infringing upon the interests of the State and legitimate rights and interests of other organizations or individuals;
+d. Execute decisions of the National Competition Commission, the competition settlement council and the Competition Investigation Agency.
+Protectors of legitimate rights and interests of the complainant, respondent, investigated party, persons with related interests and obligations
+Protectors of legitimate rights and interests of the complainant, respondent, investigated party, persons with related rights and obligations are participants in competition legal proceedings to protect the legitimate rights and interests of the complainant, respondent, investigated party or person with related rights and obligations at their written requests.
+The following persons may act the protectors of legitimate rights and interests of the complainant, respondent, investigated party, or persons with related rights and obligation when so requested:
+Lawyers as prescribed by law on lawyers;
+Vietnamese citizens who have full legal capacity, have legal knowledge, have no criminal convictions and have not been charged with offences.
+Protectors of the legitimate rights and interests of the complainant, respondent, the investigated party, persons with related rights and obligations may protect the legitimate rights and interests of more than one party in the same case if the legitimate right and interests of those parties are not opposite. Multiple protectors of legitimate rights and interests may jointly protect the legitimate rights and interests of one party in a case.
+When a person registers as a protector of legitimate rights and interests of the complainant, respondent, investigated party, or person with related rights and obligations, he/she must present the written request made by the complainant, respondent, investigated party, or person with related rights and obligations.
+When participating in competition legal proceedings, the protector of the legitimate rights and interests of the complainant, respondent, investigated party or person with related rights and obligations shall have rights and obligations to:
+Participate in stages of the competition procedure;
+Verify and collect evidence and submit them in order to protect the legitimate rights and interests of the party which they represent;
+Study documents in the competition case dossiers and to take notes and copy necessary documents in such dossiers in order to protect the legitimate rights and interests of the parties which they represent;
+Propose the replacement of competition presiding officers and/or participants in competition legal proceedings, on behalf of the parties they represent;
+Respect truth and law; not to bribe, force or incite other persons to give false testimonies or supply untruthful documents;
+Appear in response to the summonses of the National Competition Commission, Competition Investigation Agency and competition settlement council;
+Not to disclose investigation secrets they know in the process of participating in competition legal proceedings; not to use their notes and copies of documents in the competition case dossiers for the purpose of infringing upon the State’s interests or legitimate rights and interests of organizations and individuals;
+Other rights and obligations as prescribed by law.
+Witnesses
+Persons who know about details related to competition cases may be summoned by the Competition Investigation Agency, anti-competitive settlement council to participate in competition legal proceedings in the capacity as witnesses. A legally incapacitated person may not act as a witness.
+A witness shall have rights and obligations to:
+a. Supply all documents, papers and things they have, which are related to the settlement of competition cases; give testimony to the Competition Investigation Agency, the anti-competitive settlement council on all details they know, which are related to the settlement of competition cases;
+b. Participate in hearings and give testimony to the anti-competitive settlement council;
+c. Be allowed to take leave when they are summoned by or give testimony to the Competition Investigation Agency or the anti-competitive settlement council if they are working for agencies, organizations or enterprises;
+d. Be paid for relevant expenses as prescribed by law;
+dd. Refuse to give testimony if such testimony is related to State secrets, professional secrets, trade secrets or personal privacy or badly, disadvantageously affects the complainant or investigated party who are their close relatives;
+e. Pay damages and take legal liability for their false testimony causing damage to the complainant, investigated party or other entities;
+g. Appear at the hearings in response to the summonses of the anti-competitive settlement council if they must give testimony publicly at the hearings;
+h. Pledge before the Competition Investigation Agency or the anti-competitive settlement council to exercise their rights and fulfill their obligations, except for minor witnesses;
+i. Witnesses shall be protected as per the law.
+Witnesses who refuse to give testimony, give false testimony, supply false materials or are absent without justifiable reasons when being summoned by the Competition Investigation Agency or the anti-competitive settlement council shall have to bear liability as per the law, except for the case prescribed at Point dd Clause 2 of this Article.
+Expert witnesses
+Expert witness is a person who is knowledgeable about an area of expertise at the request of the Head of Competition Investigation Agency or the anti-competitive settlement council or at the request of the involved parties in a case where the Head of Competition Investigation Agency or anti-competitive settlement council refuses the solicitation of expert opinion.
+An expert witness shall have rights and obligations to:
+a. Read documents in the competition case dossier which are related to the subject matters requiring expert opinions; to request the relevant entities, the expertise solicitor to supply documents necessary for giving expert opinions;
+b. Raise questions to the participants in competition legal proceedings on matters related to subject matters requiring expert opinions;
+c. Appear in response to the summonses of the competition presiding agencies c, give answers on matters related to the expertise as well as make expertise conclusions in an honest, grounded and objective manner;
+d. Notify in writing the expertise solicitor of the impossibility to perform expertise because the subject matters requiring expert opinions fall beyond their professional capability or the supplied documents are not enough or are of no use for expertise;
+dd. Preserve the received documents and return them to the expertise solicitor together with the expertise conclusions or the notice on the impossibility to perform expertise;
+e. Not to collect by themselves documents for expertise, not to privately contact other participants in competition legal proceedings if such contact affects the impartiality of the expertise results; not to disclose information they know during the expertise, not to notify the expertise results to other persons, except for presiding agencies, expertise solicitor in a case where the Head of Competition Investigation Agency, anti-competitive settlement council refuses the solicitation of expert opinion;
+g. Be paid for relevant expenses as prescribed by law.
+Expert witnesses who refuse to give expertise conclusions without justifiable reasons or give false expertise conclusions or are absent without justifiable reasons when summoned by competition presiding agencies shall have to bear liability as per the law.
+An expert witness must refuse to participate in competition legal proceedings or be replaced in the following cases:
+He/she is the complainant, investigated party, person with relevant rights and obligations or relative of the complainant, investigated party, person with relevant interests;
+He has participated in competition legal proceedings as a protector of legitimate rights and interests, witness or interpreter in the same competition case;
+There are obvious grounds to believe that he/she is biased when performing his/her duties.
+Interpreters
+Interpreter is a person who is capable of translating a language other than Vietnamese into Vietnamese and vice versa in case where participants in competition legal proceedings cannot use Vietnamese. The interpreter may be requested by Competition Investigation Agency, the anti-competitive settlement council or selected by the complainant, investigated party or person with relevant rights and obligations or agreed upon by involved parties with approval of the Competition Investigation Agency or the anti-competitive settlement council.
+An interpreter shall have rights and obligations to:
+a. Appear in answer to the summonses;
+b. Interpret in a truthful, objective and accurate manner;
+c. Ask competition presiding officers, participants in competition legal proceedings to clarify the contents to be interpreted;
+d. Not to contact other participants in competition legal proceedings if such contact may affect the truthfulness, objectivity and accuracy of the interpretation;
+dd. Be paid for relevant expenses as prescribed by law.
+The expert witness must refuse to participate in competition legal proceedings or be replaced in the following cases:
+He/she is the complainant, investigated party, person with relevant rights and obligations or relative of the complainant, investigated party, person with relevant interests;
+He has participated in competition legal proceedings as a protector of legitimate rights and interests or expert witness in the same competition case;
+There are obvious grounds to believe that he/she is biased when performing his/her duties.
+The provisions of this Article also apply to those who understand the sign language of participants in competition legal proceedings with hearing or speech impairments. Where only the representatives or relatives of participants in competition legal proceedings with hearing or speech impairments can understand the latter’s sign language, they may be accepted by the Competition Investigation Agency or the competition settlement council to act as interpreters for such hearing/speech-impaired persons.
+Persons with relevant rights and obligations
+Persons with rights and obligations related to a competition case are those who do not complain about the competition case or are not the investigated party, yet the settlement of the competition case is related to their rights and obligations. Therefore, they propose themselves or are requested by the complainant or the investigated party and accepted by the Competition Investigation Agency or the anti-competitive settlement council for participation in the procedures as persons with related rights and obligations, or are requested by the Competition Investigation Agency or the anti-competitive settlement council to participate in the procedures as persons with related rights and obligations.
+Persons with related interests, obligations may file independent claims or participate in competition legal proceedings on the side of the complainant or investigated party.
+The procedures for filing independent claims shall be compliant with procedures for competition claims.
+Persons with related interests, obligations who file independent claims, participate in competition legal proceedings on the side of the complainant or persons with interests only shall have the rights and obligations prescribed in Clause 1 and Clause 4 Article 67 of this Law.
+Persons with related interests, obligations who participate in competition legal proceedings on the side of the investigated parties or persons with obligations only shall have the rights and obligations prescribed in Clause 3 and Clause 4 Article 67 of this Law.
+Refusing expertise, interpretation or requesting replacement of expert witnesses or interpreters
+The refusal of expertise or interpretation or request for replacement of expert witnesses or interpreters must be made in writing with clear explanation.
+Deciding replacement of expert witnesses or interpreters
+The replacement of expert witnesses or interpreters shall be decided by the Head of Competition Investigation Agency, except for the case prescribed in Clause 2 hereof.
+During a hearing, the replacement of expert witnesses or interpreters shall be decided by the anti-competitive settlement council.
+If it is necessary to replace expert witnesses or interpreters at the hearing, the anti-competitive settlement council shall issue a decision to postpone the hearing. The solicitation of other expert witnesses or appointment of other interpreters shall comply with the provisions of Articles 70 and 71 of this Law.
+Section 4. PROCEDURES FOR INVESTIGATION AND SETTLEMENT OF COMPETITION CASES
+Provision of information on violations
+An entity when having doubt or detecting signs of violation of the provisions of this Law shall have to notify and provide information and evidence for the National Competition Commission.
+Organizations and individuals shall be responsible for the truthfulness of the information and evidence provided to the National Competition Commission.
+When required, the National Competition Commission take necessary measures to ensure the confidentiality of information and identity of the organizations or individuals providing information or evidence.
+Receipt, verification and evaluation of information on violations
+The National Competition Commission shall be responsible for receiving, verifying and evaluating information and evidence on violations provided by organizations and individuals.
+The National Competition Commission shall have the right to request the organizations and individuals specified in Clause 1 Article 78 of this Law to provide further information, documents and evidence to clarify signs of violation.
+Complaints against competition cases
+Organizations and individuals assuming that their rights and interests are breached due to violations of this Law shall have the right to lodge complaints against competition cases to the National Competition Commission.
+The time limit for making such a complaint is 3 years since the performance of the acts with signs of violation of competition law.
+A complaint dossier shall include:
+A written complaint, using the form issued by the National Competition Commission;
+Evidence to prove that contents of the complaint have grounds and legality;
+Other relevant information (if any) that the complainant considers necessary for settlement of the case.
+The complainant shall be responsible for the truthfulness of the information and evidence provided to the National Competition Commission.
+Receipt and verification of complaint dossiers
+Within 7 days from receipt of the complaint dossier, the National Competition Commission shall verify if the complaint dossier is complete and valid; if it is complete and valid, the National Competition Commission shall notify the complainant and the respondent as the acknowledgement of complaint dossier.
+Within 15 days from the notices given to relevant parties prescribed in Clause 1 of this Article, the National Competition Commission shall assess the complaint dossier; if it fails to meet requirements prescribed in Clause 3 Article 77 of this Article, the National Competition Commission shall notify the complainant in writing of amendments to the complaint dossier.
+The time limit for amendments to the complaint dossier is 30 days from the date of receiving the Commission’s written notice of the amendments. The Commission may extend the time limit for amendments for only 1 time of no more than 15 days at the request of the complainant.
+Within the time limits set out in Clauses 2 and 3 of this Article, the complainant shall have the right to withdraw the complaint dossier and the National Competition Commission may stop the assessment of the complaint dossier.
+Return of complaint dossiers
+The National Competition Commission shall return a complaint dossier in the following cases:
+The time limit for making complaint is expired;
+The complaint does not fall under the authority of the National Competition Commission;
+The complainant does not amend the complaint dossier according to the provisions of Clause 2 Article 78 of this Law;
+The complainant withdraws the complaint dossier.
+Competition investigation decisions
+The Head of the Competition Investigation Agency shall issue a competition investigation decision in the following cases:
+The complaint against a competition case satisfies the requirements prescribed in Article 77 of this Law and does not fall under Article 79 of this Law;
+The National Competition Commission detects signs of violation of competition law within 3 years from the date the acts with signs of violation are committed.
+Competition investigation time limit
+The time limit for investigation of an anti-competitive case is 9 months from the date of investigation decision; in case of complicated case, it may be extended once but not exceeding 3 months.
+The time limit for investigation of a case in which a violation of economic concentration is found is 90 days from the date of investigation decision; in case of complicated case, it may be extended once but not exceeding 60 days.
+The time limit for investigation of an unfair competition case is 60 days from the date of investigation decision; in case of complicated case, it may be extended once but not exceeding 45 days.
+The extension of the investigation time limit must be notified to investigated party and concerned parties within 7 working days before the expiry date of the investigation.
+Application of measures to prevent and guarantee imposition of sanctions against administrative violations in investigation and settlement of competition cases
+During the investigation and settlement of competition cases, the President of the National Competition Commission, within his/her competence, shall require competent authorities to apply measures to prevent and guarantee imposition of sanctions against administrative violations in accordance with law on sanctions against administrative violations:
+Temporarily seizing exhibits and means of violations, licenses, practicing certificates;
+Searching means of transport and objects;
+Searching locations suspected to store exhibits and means of violations.
+The Government shall set forth procedures for application of measures to prevent and guarantee imposition of sanctions against administrative violations in investigation and settlement of competition cases.
+Taking of testimonies
+Investigators shall take testimonies of complainants, investigated parties, persons with related rights and obligations, witnesses, concerned organizations and individuals in order to gather and verify necessary information and evidence for settling competition cases.
+The taking of testimony provided in Clause 1 of this Article shall be conducted at the headquarters of the National Competition Commission. In necessary circumstances, the testimonies may be taken outside the headquarters of the National Competition Commission.
+The written record of the testimonies must be read by or to givers of testimonies, and be signed or fingerprinted by them. Givers of testimonies have the right to request amendments to the written record of the testimonies and sign or fingerprint on the amended/supplemented parts. The record must bear signatures of the testimony taker and the recorder on every page.
+If the giver of testimonies refuses to sign or fingerprint the record, the investigator shall take the testimonies and sign the record and provide explanation.
+Summoning witnesses during investigation
+The person who requests summoning a witness shall give explanation to the Competition Investigation Agency for consideration.
+Testimonies taken from the witness shall be recorded as prescribed in Article 83 of this Law.
+Transfer of competition dossiers showing criminal signs
+During the investigation, in a case where signs of crime are detected, investigators must report it to the Head of the Competition Investigation Agency for consideration and requesting the President of the National Competition Commission to transfer all or part of the relevant dossier to the competent regulatory body for settlement according to the legal provisions.
+Where there is no ground or no criminal proceedings shall be instituted against a violation of competition regulations, the competent authority shall return the dossier to the National Competition Commission to continue the investigations in accordance with this Law. The investigation time limit shall commence from the date on which the National Competition Commission receives the dossier back.
+Suspension of investigation
+The Head of the Competition Investigation Agency shall issue a decision to suspend the investigation of a competition case in the following cases:
+Evidence to prove violations cannot be taken as prescribed in this Law;
+The complainants withdraws the complaint and the investigated party commits to terminate the investigated act, commit to take remedial measures which are approved by the Competition Investigation Agency;
+The investigated party commits, in case the investigation falls under the provisions of Clause 2 Article 80, to terminate the investigated acts, commit to take remedial measures which are approved by the Competition Investigation Agency.
+Re-establishment of investigation
+The Head of the Competition Investigation Agency shall, on his own or at the request of the President of the National Competition Commission/of any involved party, re-establish the investigation in the following cases:
+The investigated party fails to comply or complies in an incorrect and incomplete manner with the commitments as prescribed in Clauses 2 and 3 Article 86 of this Law;
+The investigated party’s decision to accept commitments is based on incomplete, inaccurate or misleading information provided by involved parties.
+The investigation time limit after the decision on re-establishment of investigation is issued is 4 months.
+Investigation reports
+Investigators shall make an investigation report upon completion of the investigation which contains the following key contents and send it to the Head of Competition Investigation Agency:
+A brief description of the case;
+Determination of the violation;
+Verified details and evidence;
+Proposed handling measures.
+The Head of the Competition Investigation Agency shall have to sign investigation conclusions and submit the competition case dossier, investigation report and investigation conclusions to the President of the National Competition Commission for settlement in accordance with this Law.
+Settlement of violation of economic concentration regulations
+Within 30 days from receipt of the competition case dossier, investigation report and investigation conclusions, the President of the National Competition Commission shall issue a decision to:
+settle a violation of economic concentration regulations;
+request Competition Investigation Agency to carry out further investigation if the evidence collected is not sufficient to determine violations against competition regulations. The time limit for further investigation is 30 days from the date of decision; or
+suspend the settlement of a violation of economic concentration regulations.
+Time limit for settlement of a violation of economic concentration regulations in case of further investigation is 20 days from the date on which the dossier, investigation report and investigation conclusions are received.
+Settlement of an unfair competition case
+Within 15 days from receipt of the competition case dossier, investigation report and investigation conclusions, the President of the National Competition Commission shall issue a decision to:
+settle the unfair competition case;
+request Competition Investigation Agency to carry out further investigation if the evidence collected is not sufficient to determine violations against competition regulations. The time limit for further investigation is 30 days from the date of decision; or
+suspend the settlement of the unfair competition case.
+Time limit for settlement of an unfair competition case in case of further investigation is 10 days from the date on which the dossier, investigation report and investigation conclusions are received.
+Settlement of an anti-competitive case
+Within 15 days from receipt of the competition case dossier, investigation report and investigation conclusions, the President of the National Competition Commission shall establish an anti-competitive settlement council.
+Within 30 days from the date of establishment, the anti-competitive settlement council may request Competition Investigation Agency to carry out further investigation if the evidence collected is not sufficient to determine violations against competition regulations. The time limit for further investigation is 60 days from the date of request.
+Within 60 days from the date on which the council is established or the report and conclusions on further investigation are received, the anti-competitive settlement council shall issue a decision to suspend the settlement of competitions case as prescribed in Article 92 of this Law or to issue a settlement decision as prescribed in Article 94 of this Law.
+Before issuing a decision on settlement of anti-competitive case, the anti-competitive settlement council shall open a hearing as prescribed in Article 93 of this Law.
+The anti-competitive settlement council shall issue a decision on settlement on anti-competitive case according to discussion, ballot and decision on the majority rule.
+Suspension of competition case settlement
+The President of the National Competition Commission shall decide to suspend the settlement of violations of economic concentration regulations and unfair competition cases in the following cases:
+The complainants withdraws the complaint and the investigated party commits to terminate the investigated act, commit to take remedial measures;
+The investigated party commits, in case the investigation falls under the provisions of Clause 2 Article 80, to terminate the investigated acts, commit to take remedial measures.
+The anti-competitive settlement council shall decide to suspend the settlement of anti-competitive cases in the following cases
+The complainants withdraws the complaint and the investigated party commits to terminate the investigated act, commit to take remedial measures;
+The investigated party commits, in case the investigation falls under the provisions of Clause 2 Article 80, to terminate the investigated acts, commit to take remedial measures.
+The decision on suspension of competition case settlement must be sent to the complainant, the investigated party and made public.
+Hearings
+Within 15 days before expiry of time limit prescribed in c, 3 Article 91 of this Law, the anti-competitive settlement council shall open a hearing.
+Such hearing shall be held in public. Where the contents of the hearing are related to national secrets or trade secrets, the hearing shall be held in confidentiality.
+The decision to open the hearing and invitations to the hearing must be sent to the complainant, the investigated party and related organizations and individuals within 5 working days before the opening of the hearing. If they are absent in the hearing without justifiable reasons or still absent in second hearing although they are summoned validly, the anti-competitive settlement council shall still settle the competitions case as prescribed.
+Participants in the hearing:
+Members of the anti-competitive settlement council;
+The complainant;
+The investigated party;
+Protectors of the legitimate rights and interests of the complainant or the investigated party;
+The Head of Competition Investigation Agency and investigators who have investigated the competition case;
+Hearing clerks;
+Person with relevant rights and obligations and others listed in the hearing opening decision.
+At the hearing, participants shall present and discuss to protect their rights and legitimate interests. Opinions and arguments presented at the hearing must be recorded.
+Settlement decision
+A settlement decision shall at least contain:
+A brief description of the case;
+Analysis of the case;
+Conclusion of the case.
+The settlement decision shall be served to relevant organizations and individuals within 5 working days from the date of signing.
+The settlement decision shall be served by one of the following methods:
+Personal service;
+Service by post;
+Service through an authorized third party.
+If the settlement decision cannot be served using one of the methods prescribed in Clause 3 of this Article, it shall be put up publicly or announced by means of mass media.
+Effect of settlement decision
+A settlement decision shall take effect from the expiry of a complaint period as prescribed in Article 96 of this Law, except for the case prescribed in Clause 2 Article 99 of this Law.
+Section 5. HANDLING OF COMPLAINTS AGAINST SETTLEMENT DECISIONS
+Complaining about a settlement decision
+In case of disagreement with a part or the whole of a settlement decision, the organizations or individuals may lodge a complaint with the President of the National Competition Commission within 30 days after receiving the settlement decision.
+Complaints against settlement decisions
+A complaint against a settlement decision must at least contain:
+Date of the complaint;
+Name and address of the complainant;
+Code and date of the settlement decision against which the complaint is filed;
+Grounds for complaint and requests of the complainant;
+Signature and seal (if any) of the complainant.
+The complaint against a settlement decision must be sent to together with additional evidence (if any) proving that the complaint is well-grounded and lawful.
+Processing of complaints against settlement decisions
+Within 10 days after receiving a complaint, the President of the National Competition Commission shall process the complaint and notify the complainant and related parties in writing of the contents of the complaint; in case of refusal, the President of National Competition Commission shall provide explanation in writing.
+Consequences of complaints against settlement decisions
+A settlement decision against which a complaint is filed shall continue to be enforced except for the cases stipulated in Clause 2 of this Article.
+During the handling of complaints, if deeming that the implementation of a part or the whole of complained settlement decision shall result in consequences difficult to remedy, the President of the National Competition Commission shall decide to temporarily suspend the implementation of a part or the whole of such decision. The suspension decision issued by the President of National Competition Commission shall cease to be effective from the date on which the decision on handling of above-mentioned complaint take effect.
+Handling of complaints against settlement decisions
+Handling of complaints against settlement decisions:
+Within 5 working days from acceptance of a complaint, the President of National Competition Commission shall decide to set up a complaint handling council composed of the President of the National Competition Commission and all members of the National Competition Commission, except for members who have participated in the anti-competitive settlement council;
+The decision on handling of the complaint must be voted by at least two thirds of total members of the complaint handling council.
+The decision on handling of complaint shall be adopted by voting under majority rule; in the event of equal votes, the chairperson of the council shall have the deciding vote;
+The time limit for handling of complaints is 30 days from the date on which the decision on establishment of the complaint handling council is issued.
+Handling of complaints against decisions on settlement of violations of economic concentration regulations or unfair competition:
+After receiving a complaint, the President of the National Competition Commission shall have to handle the complaint within his/her competence;
+The time limit for handling of complaints is 30 days from the date on which the complaint is accepted.
+In complicated cases, the time limit for handling complaint prescribed in Clauses 1 and 2 of this Article may be extended but for no more than 45 days.
+Handling of complaints against settlement decisions
+Uphold the settlement decision.
+Amend a part or the whole of the settlement decision.
+Cancel the settlement decision for re-settlement in any of the following cases:
+The composition of the anti-competitive settlement council does not comply with this Law;
+There is a serious violation against competition legal proceedings;
+There are new facts leading possibly basic changes of the settlement decision that are not found during the investigation.
+If the settlement decision is cancelled as prescribed in Article 3 of this Article, the President of National Competition Commission shall return the dossier in question to the Competition Investigation Agency or set up an anti-competitive settlement council as prescribed in this Law. A member of the anti-competitive settlement council or an investigator who commits a violation prescribed in Point a and b Clause 3 of this Article shall not be allowed to keep participating in investigation and settlement of this case.
+Effect of complaint handling decisions
+A decision on handling of the complaint against settlement decision shall take effect from the day on which it is signed.
+Within 5 working days from the date of signing, the decision on handling of the complaint against settlement decision shall be sent to relevant entities for further enforcement.
+Initiation of a lawsuit against complaint handling decisions
+In case of disagreement with a complaint handling decision, the related party may initiate a lawsuit against a part or the whole of the contents of such decision to the competent court as prescribed in the Law on Administrative Proceedings within 30 days from the date of receiving the decision.
+If the court accepts the lawsuit petition as prescribed in Clause 1 of this Article, the National Competition Commission shall transfer the competition dossier to the court within 10 days from the date on which the court’s request is received.
+Section 6. ANNOUNCEMENT OF DECISIONS OF NATIONAL COMPETITION COMMISSION
+Decisions to be announced
+The following decisions must be announced, except for the contents prescribed in Article 105 of this Law:
+Decision on exemption for prohibited anti-competitive agreements;
+Decision on economic concentration;
+Decision on competition case settlement;
+Decision on suspension of competition case settlement;
+Decision on handling complaints against settlement decisions.
+The National Competition Commission shall announce the decisions referred to in Clause 1 of this Article only after they have taken effect.
+Contents not to be disclosed
+The President of the National Competition Commission shall decide the contents related to State secrets or trade secrets which are not to be disclosed in the decisions specified in Clause 1 Article 104 of this Law.
+Posting of contents to be announced
+The contents allowed to be announced in the decisions referred to in Clause 1 Article 104 of this Law shall be posted on the website of the National Competitive Commission for a period of 90 consecutive days after such decisions take effect.
+Announcement and publication of annual performance reports of the National Competition Commission
+The National Competition Commission shall announce and publish its annual performance reports on its website.
+Section 7. INTERNATIONAL COOPERATION IN COMPETITION LEGAL PROCEEDINGS
+International cooperation in competition legal proceedings
+The National Competition Commission shall conduct cooperation activities with foreign competition authorities in the course of competition legal proceedings in order to promptly detect, investigate and handle acts with signs of violation of competition law.
+The scope of international cooperation in competition legal proceedings includes consultation, exchange of information and materials or other appropriate international cooperation activities in accordance with the provisions of Vietnamese law and international treaties to which the Socialist Republic of Vietnam is a party.
+Principles of international cooperation in competition legal proceedings
+International cooperation in competition legal proceedings shall be conducted on the principle of respect for each other’s independence, sovereignty and territorial integrity, non-interference in each other’s internal affairs, equality and mutual benefit, in conformity with Vietnamese Constitution, laws and international treaties to which the Socialist Republic of Vietnam is a party.
+In cases where Vietnam has not yet signed or joined related international treaties, international cooperation in competition legal proceedings shall be conducted on the principle of reciprocity but not contrary to Vietnamese laws, and in conformity with international laws and practices.
+Chapter IX
+SANCTIONS AGAINST VIOLATIONS OF COMPETITION LAW
+Rules and forms of sanctions against violations and remedial measures for violations of competition law
+Any entity committing violation of competition law shall, depending on the nature and seriousness of their violations, be disciplined, incur penalties for administrative violations or face a criminal prosecution; in case of damage to the interests of the State, legitimate rights and interests of organizations and individuals, compensation must be paid according to the provisions of law.
+For each violation of competition law, the violator shall be subject to one of the following primary penalties:
+Warning;
+Fines.
+Depending on nature and severity of the violation, the violator may be subject to one of the following additional penalties:
+Revocation of enterprise registration certificates or equivalent, deprivation of licenses and practicing certificates;
+Confiscation of the exhibits and means used for violations of competition law;
+Confiscation of the profit earned from the violations of competition law.
+Apart from penalties prescribed in Clauses 2 and 3 hereof, the violator may be subject to the application of one or more of the following remedial measures:
+Restructure the enterprises having abused their dominant position on the market or abused their monopoly position;
+Remove illegal provisions from business contracts, agreements or transactions;
+Divide, split or sell a part or all paid-in capital, assets of the enterprise which is established after economic concentration;
+Subject to the control of competent authority related to purchase prices and sale prices of goods, services or other transaction conditions in contracts of the enterprise which is established after economic concentration;
+Make public correction;
+Other necessary measures to overcome anti-competitive effects of the violation.
+The Government shall provide guidelines for penalties and remedial measures for each violation prescribed in competition law.
+Fines imposed on violations of competition law
+The maximum fine for violations of regulations on anti-competitive agreements, abuse of the dominant position on the market, abuse of the monopoly position shall be equal to 10% of the total turnover of violating enterprises on the relevant market in the fiscal year preceding the year of violation, but not less than the minimum fine imposed on violations prescribed by the Penal Code.
+The maximum fine for violations of economic concentration regulations shall be 5% of the total turnover of violating enterprises on the relevant market in the fiscal year preceding the year of violation.
+The maximum fine for violations of regulations on unfair competition shall be VND 2 billion.
+The maximum fine for other violations of this Law shall be VND 200 million.
+The maximum fines prescribed in Clauses 1, 2, 3 and 4 of this Article shall apply to violations committed by organizations; a violation of regulations on competition law committed by an individual shall be subject to a half of fine that imposed on an organization committing the same violation.
+The Government shall provide guidelines for amounts of fines imposed on violations prescribed in this Law.
+Leniency policy
+Enterprises that voluntarily inform to help the National Competition Commission detect, investigate and handle anti-competitive agreements prohibited prescribed in Article 12 of this Law might receive full or partial immunity from fines under the leniency policy.
+The President of the National Competition Commission shall decide the granting of full or partial immunity from fines in accordance with the leniency policy.
+The full or partial immunity from fines prescribed in Clause 1 hereof shall be granted if the enterprise meets the following conditions:
+It has engaged in the anti-competitive agreement as a party as prescribed in Article 11 of this Law;
+It voluntarily gives notice of the violation before competent bodies make an investigation decision;
+It honestly provides all information/evidence that it has on the violation, which is of great help for the National Competition Commission to detect, investigate and handle the violation;
+Fully cooperate with competent bodies during the investigation and handling of the violation.
+Regulations in Clause 1 hereof shall not apply to enterprises that play the role of forcing or arranging other enterprises to participate in the agreement.
+This leniency policy is applicable to no more than the first 3 enterprises which apply for leniency to the National Competition Commission and meet all the conditions specified in Clause 3 of this Article.
+Criteria for determining the enterprises entitled to leniency:
+Order of the notification;
+Time of notification submission;
+Fidelity and values of the provided information/evidence.
+The full or partial immunity from fines shall be granted as follows:
+The first enterprise applying for leniency and meeting the conditions specified in Clause 3 of this Article might receive full immunity from fines;
+The second and third enterprises applying for leniency and meeting the conditions specified in Clause 3 of this Article might receive 60% and 40% of immunity from fines respectively;
+Power and forms of sanctions against violations of competition law
+If a regulatory body performs an act prescribed in Clause 1 Article 8 of this Law, the National Competition Commission shall request such regulatory body to terminate the act and adopt remedial measures. The aforesaid regulatory body shall terminate the act, adopt remedial measures and compensate for damage as per the law.
+In case of prohibited acts prescribed in Clause 2 Article 8 of this Law, the President of the National Competition Commission and the anti-competitive settlement council shall have power to:
+Give warnings;
+Impose fines as prescribed in Clause 4 Article 111 of this Law;
+Adopt measures prescribed in Points b, c Clause 3 and Points dd, e Clause 4 Article 110 of this Law;
+Request the competent authority to adopt measures prescribed in Point a Clause 3 Article 110 of this Law.
+In cases of violations of anti-competitive agreements, abuse of the dominant position on the market, abuse of the monopoly position, the anti-competitive settlement council shall have the power to:
+Give warnings;
+Impose fines as prescribed in Clause 1 Article 111 of this Law;
+Adopt measures prescribed in Points b, c Clause 3 and Points a, b, d, dd, e Clause 4 Article 110 of this Law;
+Request the competent authority to adopt measures prescribed in Point a Clause 3 and Point a Clause 4 Article 110 of this Law.
+In cases of violation of economic concentration regulations, the President of the National Competition Commission shall have power to:
+Give warnings;
+Impose fines as prescribed in Clause 2 Article 111 of this Law;
+Adopt measures prescribed in Points b, c Clause 3 and Points a, c, d, e Clause 4 Article 110 of this Law;
+Request the competent authority to adopt measures prescribed in Point a Clause 3 and Point a Clause 4 Article 110 of this Law.
+In case of violations of unfair competition and other violations prescribed herein other than the cases prescribed in Clauses 1, 2, 3 and 4 hereof, the President of National Competition Commission shall have power to:
+Give warnings;
+Impose fines as prescribed in Clauses 3 and 4 Article 111 of this Law;
+Adopt measures prescribed in Points b, c Clause 3 and Points dd, e Clause 4 Article 110 of this Law;
+Request the competent authority to adopt measures prescribed in Point a Clause 3 Article 110 of this Law.
+Prohibited acts prescribed in Clause 7 Article 45 of this Law shall be settled as prescribed in relevant laws.
+Enforcement of settlement decisions
+Within 15 days from the effective date of a settlement decision, if the party obliged to comply with the decision fails to voluntarily do so, the President of the National Competition Commission and the successful party shall have the right to request competent authorities to enforce the settlement decision.
+If a settlement decision is related to the properties of the party bound to comply with such decision, the National Competition Commission shall request the competent civil enforcement agency to carry out the enforcement.
+Enforcement of decision on handling of complaint against settlement decision
+Within 15 days from the effective date of a settlement decision, if the party obliged to comply with the decision fails to voluntarily do so, the President of the National Competition Commission and the successful party shall have the right to request competent authorities to enforce the settlement decision.
+If a settlement decision is related to the properties of the party bound to comply with such decision, the National Competition Commission and the successful party may request the competent civil enforcement agency to carry out the enforcement.
+Chapter X
+IMPLEMENTATION
+Amendments to and annulment of provisions of other laws
+Certain articles of the Law on Civil Judgment Enforcement No. 26/2008/QH12 which are amended in the Law No. 64/2014/QH13 are amended as follows:
+Replacing the phrase “settlement decisions of the anti-competitive settlement council” prescribed in Article 1, Point e Clause 2 Article 35, Point a Clause 1 Article 56 with the phrase “settlement decisions of the President of National Competition Commission, the anti-competitive settlement council, decisions on handling of complaints against settlement decisions of the President of National Competition Commission, the anti-competitive complaint handling council”;
+Replacing the phrase “the anti-competitive settlement council” prescribed in Article 26 and Article 27 with the phrase “the President of the National Competition Commission, the anti-competitive settlement council, the anti-competitive complaint handling council”;
+Point dd Clause 1 Article 2 shall be amended as follows:
+“dd) A settlement decision of the President of National Competition Commission or anti-competitive settlement council, a decision on handling of complaint against settlement decision of the President of National Competition Commission or anti-competitive settlement council that involved parties are unwilling to enforce or do not file a lawsuit to a court after 15 days from the date on which the decision takes effect;”.
+Clause 6 Article 19 of the Law on Telecommunication No. 41/2009/QH12 shall be annulled.
+Point 4.1, sub-section 04, section II, Part A of Appendix No. 01 issued together with the Law on Fees and Charges No. 97/2015/QH13 shall be annulled.
+Entry in force
+This Law comes into force as of July 1, 2019.
+The Competition Law No. 27/2004/QH11 ceases to be effective from effective date of this Law.
+Transitional regulations
+From effective date of this Law, violations against competition law prescribed in the Competition Law No. 27/2004/QH11 shall be considered further as follows:
+If a violation is determined not contravening this Law during investigation, the investigation shall be suspended;
+If a violation is determined contravening this Law during the investigation and handling of complaint, the investigation or handling of complaint shall keep being carried out as prescribed in this Law. If the penalties or amounts of fines imposed on violations prescribed in this Law are higher than those prescribed in Competition Law No. 27/2004/QH11, Competition Law No. 27/2004/QH11 shall prevail.
